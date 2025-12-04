@@ -8,8 +8,11 @@ Some new tools I'm learning are Pyspark, and Databricks
 
 ## My Technical Tools
 Programming Languages: Python, Java, SQL, NoSQL, C, C#, MatLab, HTML
+
 Operating Systems: Windows, Linux- Debian, Ubuntu, Kali (for security)
+
 Cloud Environments: MS Azure, GCP-Google Cloud Platform
+
 Developer Tools: Git (Version Control), Docker, gRPC, JUnit, FastAPI, Unity, SSH Terminal, Apache Tomcat, Visual Studio, PyCharm, Eclipse, PowerBI, WordPress
 
 
